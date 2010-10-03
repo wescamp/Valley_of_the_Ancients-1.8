@@ -1,0 +1,1011 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-10-03 13:01+0200\n"
+"PO-Revision-Date: 2010-10-03 13:01+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [multiplayer]: id=TL_VOTA_01_Uneasy_Alliance
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:6
+msgid "Valley of the Ancients"
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_01_Uneasy_Alliance
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:10
+msgid ""
+"Brief MP campaign. Fight your way into the legendary Valley of the Ancients "
+"against your rival.\n"
+"\n"
+"\tUse any era you want but enable Default settings."
+msgstr ""
+
+#. [part]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:22
+msgid ""
+"It is said that long before Men ever came from the west to settle the "
+"continent, in the days when even the elves and dwarves were new to the "
+"world, the dwarves had a great city nestled high in the remote mountain "
+"peaks. Here in their ancestral homeland the ancient dwarves were said to "
+"possess spectacular riches; it was said that every wall in the city was "
+"forged of gold and silver and studded with precious jewels. But even the "
+"Gods were jealous of their wealth, according to the myths, and so the city "
+"was cast down and the dwarves scattered across the continent."
+msgstr ""
+
+#. [part]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:27
+msgid ""
+"Most dismiss the legend as pure fabrication. Even the dwarves themselves "
+"doubt that such a place ever existed; in their most ancient annals of "
+"history there exist only vague and cryptic hints. Nonetheless treasure "
+"hunters throughout the centuries have chased in vain after the legends and "
+"rumors of the long-forgotten Valley of the Ancients, seeking to plunder the "
+"lost wonders of the dwarves. Most disappear and are never heard from again, "
+"and some speculate that they did indeed find the Valley... and succumbed to "
+"the unknown dangers it contains."
+msgstr ""
+
+#. [part]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:32
+msgid ""
+"For years you have chased the myths. At first it was merely an exercise in "
+"curiosity, but as you began to piece the stories together, you became more "
+"and more convinced that there was something behind all of them. Eventually "
+"your painstaking research began to point to a probable location for the "
+"Valley. Excited, you gathered what resources you could for an expedition, "
+"only to find that you are not alone..."
+msgstr ""
+
+#. [side]: id=player1
+#. [side]: id=player2
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:44
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:63
+msgid "Explorers"
+msgstr ""
+
+#. [side]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:79
+msgid "Guardians"
+msgstr ""
+
+#. [unit]: type=$random
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:105
+msgid "Praetor"
+msgstr ""
+
+#. [objective]: condition=win
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:184
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:60
+msgid "Defeat enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:188
+msgid "Death of an Hero"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:192
+msgid "Turns run out"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:203
+msgid "At last! Behold the Gates of Dawn--the legends are true!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:208
+msgid "The legendary entrance to the Valley of the Ancients. I knew it!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:213
+msgid ""
+"What? Who are you--how did you discover the location of the valley?! No "
+"matter. If you try to interfere, I will destroy you."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:218
+msgid ""
+"You really think you can stop me? It is my destiny to reclaim the ancient "
+"valley of the dwarves!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:223
+msgid "More intruders, I see. So, you both seek the Accursed Valley?"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:228
+msgid ""
+"'Accursed Valley'? What nonsense is this? You will not stop me with a lot of "
+"superstitious prattle, fool!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:233
+msgid ""
+"Indeed I will not; I will stop you with strength of arms, for it is our "
+"sworn duty to guard the valley. Be thankful, for it is a far kinder fate "
+"than awaits you within!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:238
+msgid ""
+"His words are backed by a great army. Perhaps we should band together until "
+"he is out of the way?"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:243
+msgid ""
+"So be it. First we will destroy these self-proclaimed guardians. Your "
+"reckoning will come later!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:248
+msgid "Hah! We shall see."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:262
+msgid "Nooooo! I was so close..."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:267
+msgid ""
+"Well done, men. All we have to do is clean up the rest of this rabble. The "
+"valley is safe again, for now."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:277
+msgid ""
+"Damnation! I'll never be able to fight my way through now... you've won "
+"today, but I will be back!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:293
+msgid "No! I have failed..."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:298
+msgid "The valley is mine!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:303
+msgid "Hah! Think again."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:307
+msgid "Hmph. Much good may it do you... turn back now, I tell you!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:312
+msgid "Crazy old blighter... oh well. Time to settle the score!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:325
+msgid "Reinforcements are at hand! Now we can sweep the invaders before us!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:330
+msgid ""
+"Bah! You're on your own. I'm getting out of here while I still have a chance."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/01_Uneasy_Alliance.cfg:335
+msgid ""
+"You coward! You've cost me my only chance at the Valley... you'll pay for "
+"this!"
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_02_Showdown
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:6
+msgid "Showdown in the Valley"
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_06_Last_Battle
+#. [multiplayer]: id=TL_VOTA_05_Out_of_the_Frying_Pan
+#. [multiplayer]: id=TL_VOTA_02_Showdown
+#. [multiplayer]: id=TL_VOTA_03_Cursed_City
+#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:7
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:8
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:8
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:8
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:8
+msgid ""
+"MP campaign. Fight your way into the legendary Valley of the Ancients "
+"against your rival."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:72
+msgid ""
+"So you still persist in pursuing the valley? You could still choose to "
+"depart peacefully, you realize. You need not die in vain here."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:77
+msgid ""
+"Hmph. Unable to back your claim through force, I see you resort to bluff--"
+"and a weak bluff, at that. Either way, you will die!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:91
+msgid "Argh! They are stronger than I had thought. Fall back!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:97
+msgid ""
+"Onward! The path lies open before us now. Soon the ancient treasures of the "
+"dwarves will be mine and mine alone!"
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_03_Cursed_City
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:6
+msgid "The Accursed City"
+msgstr ""
+
+#. [time]: id=underground_neutral
+#. [illuminated_time]: id=underground_illum_neutral
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:16
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:23
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:16
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:23
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:18
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:25
+msgid "Underground"
+msgstr ""
+
+#. [side]: type=Peasant, id=player1
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:25
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:38
+msgid "One"
+msgstr ""
+
+#. [side]: type=Peasant, id=player2
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:45
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:58
+msgid "Two"
+msgstr ""
+
+#. [side]: type=Necrophage
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:71
+msgid "Ghruul"
+msgstr ""
+
+#. [side]: type=Ancient Lich
+#. [side]: type=Necrophage
+#. [side]: type=Ancient Lich, id=mal-daugur
+#. [side]: type=Revenant
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:62
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:75
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:95
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:116
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:137
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:157
+msgid "Undead"
+msgstr ""
+
+#. [side]: type=Necrophage
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:91
+msgid "Urhuu"
+msgstr ""
+
+#. [side]: type=Ancient Lich
+#. [side]: type=Ancient Lich, id=mal-daugur
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:58
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:111
+msgid "Mal-Daugur"
+msgstr ""
+
+#. [side]: type=Revenant
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:133
+msgid "Aeggorath"
+msgstr ""
+
+#. [side]: type=Revenant
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:153
+msgid "Duagor"
+msgstr ""
+
+#. [objectives]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:184
+msgid "Escape the undead hordes"
+msgstr ""
+
+#. [objective]: condition=win
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:186
+msgid "Reach one of the trapdoors with your leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:190
+msgid "Death of your leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:195
+msgid "Opponent escapes before you do"
+msgstr ""
+
+#. [message]: id=$victor.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:224
+msgid ""
+"Glorious! The lost city of the dwarves and all its riches belong to me at "
+"last!"
+msgstr ""
+
+#. [message]: id=$loser.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:228
+msgid "Enjoy it while it lasts. I will have my revenge!"
+msgstr ""
+
+#. [message]: id=$victor.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:232
+msgid "So you're still around? I can take care of that."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:236
+msgid "FRESH MEAT..."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:240
+msgid "HUNGRY..."
+msgstr ""
+
+#. [message]: id=$victor.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:244
+msgid "Huh?"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:248
+msgid "More victims! How delightful."
+msgstr ""
+
+#. [message]: id=$victor.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:252
+msgid ""
+"Drat! Perhaps there was more to that guardian's 'Accursed Valley' nonsense "
+"than we gave credit."
+msgstr ""
+
+#. [message]: id=$victor.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:256
+msgid ""
+"The ancient dwarves were said to have weapons of great power. If we can "
+"reach the depths of the lower city to recover them, we may be able to fight "
+"off this horde."
+msgstr ""
+
+#. [message]: id=$loser.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:260
+msgid "'We'? What's this 'we' business? You're on your own, friend."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:264
+msgid ""
+"Run, run, run! Flee as you will, you will not escape! Nothing leaves the "
+"Valley alive!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:300
+msgid "We'll never get out of here at this rate!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:304
+msgid "This is hopeless. We are doomed!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:309
+msgid "Mua hah hah hah!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:340
+msgid "Quickly, this way!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:345
+msgid "Master! Some of them are getting away!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:350
+msgid ""
+"They will not get very far. We can deal with them later. For now, though, "
+"take the others!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:360
+msgid "Oh no. We are doomed fighting this horde alone!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:365
+msgid "Muahahah hah hah!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:425
+msgid "Yessss... more blood and souls for the master!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:429
+msgid "No! Not like this..."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:434
+msgid "Feed, my children! Slaughter them all!"
+msgstr ""
+
+#. [message]: id=$victor2.id
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:438
+msgid "Quick, let's get out of here while they're busy."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:443
+msgid "Heh heh. Run while you can! You will join them soon enough!"
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:6
+msgid "Dwarven Hold"
+msgstr ""
+
+#. [side]: type=Dwarvish Lord
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:71
+msgid "Morglandur"
+msgstr ""
+
+#. [side]: type=Dwarvish Sentinel
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:123
+msgid "Druth"
+msgstr ""
+
+#. [side]: type=Dwarvish Sentinel
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:175
+msgid "Hrandath"
+msgstr ""
+
+#. [objectives]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:243
+msgid "Loot the ancient dwarvish treasure"
+msgstr ""
+
+#. [objective]: condition=win
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:245
+msgid "Collect all 7 dwarvish treasures"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:249
+msgid "Death of both human players"
+msgstr ""
+
+#. [objectives]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:252
+msgid "The player who find the most treasures wins if both survive"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:356
+msgid "Phew, I think I've lost them. Now I can explore at my leisure."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:361
+msgid "Hah hah! Guess again!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:366
+msgid "You again?! How did you get past the lich?"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:371
+msgid ""
+"Mal-Daugur was generous enough to reanimate me with the powers of unlife. He "
+"sought to enslave me into his army, but my will was too strong and I broke "
+"away from him. Now I will use the dwarves' treasures to defeat him... right "
+"after I kill you!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:376
+msgid "We'll see about that. Those treasures are mine!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:412
+msgid "What?! There are still dwarves alive down here?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:416
+msgid "Aye, o'course there be!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:420
+msgid "But the upper levels are swarming with undead! How can you survive?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:424
+msgid ""
+"With good sturdy dwarvish steel--how else? Yon bonesacks are nae a match for "
+"our axes and hammers!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:428
+msgid ""
+"Then surely you must help us. Together we can drive the undead scourge away "
+"from your home!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:432
+msgid ""
+"Aye... so ye can take it for yourselves, no doubt! C'mon, lads--let's send "
+"these intruders back where they belong!"
+msgstr ""
+
+#. [message]: role=zombie
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:466
+msgid "Nnnnrrrrrgghhhh..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:470
+msgid "Gah! What is this?"
+msgstr ""
+
+#. [message]: race=dwarf
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:475
+msgid ""
+"It is our terrible burden. We are bound to this valley forever, in death as "
+"well as life."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:497
+msgid ""
+"A curse over this wretched place! I should have heeded the guardian's "
+"warnings while I had a chance..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:510
+msgid "Damn. I had come so far..."
+msgstr ""
+
+#. [message]: race=dwarf
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:517
+msgid "Excellent. The intruders have been defeated!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:252
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:310
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:567
+msgid "What type of Soulless would you like to recruit?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:255
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:313
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:570
+msgid "Bat"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:266
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:324
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:581
+msgid "Saurian"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:288
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:346
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:592
+msgid "Goblin"
+msgstr ""
+
+#. [message]: race=dwarf
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:619
+msgid "No! Our sacred treasures, all gone!"
+msgstr ""
+
+#. [unit]: type=Ancient Lich, id=Mal-Draugur
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:627
+msgid "Mal-Draugur"
+msgstr ""
+
+#. [message]: id=Mal-Draugur
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:649
+msgid ""
+"Hah hah hah! Foolish mortals... your infighting has only left you weak and "
+"vulnerable. Now I will finally destroy you once and for all!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:653
+msgid "Pull back! We need a more defensible position to fight from!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:657
+msgid "Damn! Too many enemies... we'll have to retreat!"
+msgstr ""
+
+#. [message]: race=dwarf
+#: Valley_of_the_Ancients/scenarios/04_Dwarven_Hold.cfg:664
+msgid ""
+"Fools! You have doomed us all... below us lies an even greater danger, but "
+"now you have left us all no choice."
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_05_Out_of_the_Frying_Pan
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:6
+msgid "Out of the Frying Pan"
+msgstr ""
+
+#. [side]: type=Peasant, id=player1
+#. [side]: type=Peasant, id=player2
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:38
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:60
+msgid "Humans"
+msgstr ""
+
+#. [side]: type=Fire Dragon
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:76
+msgid "Rathmalrak"
+msgstr ""
+
+#. [side]: type=Fire Dragon
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:84
+msgid "Dragons"
+msgstr ""
+
+#. [objectives]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:110
+msgid "Slay the dragon to escape"
+msgstr ""
+
+#. [objective]: condition=win
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:112
+msgid "Slay Rathmalrak"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:116
+msgid "Death of both players"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:147
+msgid "What place is this?"
+msgstr ""
+
+#. [message]: role=ally
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:152
+msgid ""
+"Behold the lair of Rathmalrak. It was he who destroyed our once-proud "
+"city... we eventually managed to trap him here at the heart of the mountain, "
+"but he placed a curse on us as his revenge."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:156
+msgid "What? You mean it was not Mal-Daugur who cursed you?"
+msgstr ""
+
+#. [message]: role=ally
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:160
+msgid ""
+"Nay. Mal-Daugur simply took advantage of our vulnerability to move into the "
+"upper citadel. For centuries now we have lived under an uneasy stalemate, "
+"keeping him at bay by threatening to unleash the dragon upon him. Rathmalrak "
+"is the only living thing he fears."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:164
+msgid ""
+"All things fear me! I am Rathmalrak the Destroyer! It has been long since I "
+"have feasted on fresh meat. I will be sure to make your carcasses last a "
+"long, long time!"
+msgstr ""
+
+#. [message]: role=ally
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:169
+msgid ""
+"This is it. We're throwing our lot in with you. If we must die, we'll die "
+"fighting!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:174
+msgid ""
+"We had no idea we were bringing such destruction down upon you, but it is "
+"only fitting we should share in your destruction. I swear we will fight "
+"alongside you until the end!"
+msgstr ""
+
+#. [message]: role=ally
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:179
+msgid ""
+"Hmph. Maybe there is such a thing as honor among surface-dwellers. Very "
+"well. Come, lads! We'll die fighting today!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:184
+msgid ""
+"Looks like we're back to where we started. We'll have to work together to "
+"kill this thing, but don't think that we're through yet!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:231
+msgid "I am undone! Avenge me!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:245
+msgid "You pathetic weaklings thought you could stand up to ME?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:277
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:335
+msgid "Dwarf"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:373
+msgid "WHAT?! No... this cannot be! I am Rathmalrak! I destroy all!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:377
+msgid "Hah! Not anymore. Your reign of destruction has ended!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/05_Out_of_the_Frying_Pan.cfg:386
+msgid "Huzzah! Our curse is lifted. We are free!"
+msgstr ""
+
+#. [multiplayer]: id=TL_VOTA_06_Last_Battle
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:5
+msgid "Last Battle"
+msgstr ""
+
+#. [side]: type=Elvish Sylph
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:84
+msgid "Aelarra"
+msgstr ""
+
+#. [side]: type=Elvish Sylph
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:88
+msgid "Elves"
+msgstr ""
+
+#. [unit]: type=Elvish Champion, role=champion
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:112
+msgid "Lythandrail"
+msgstr ""
+
+#. [objective]: condition=win
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:126
+msgid "Defeat enemy leaders"
+msgstr ""
+
+#. [objectives]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:129
+msgid "This scenario is a FFA"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:165
+msgid "Finally! I never thought I'd see the open skies again."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:169
+msgid ""
+"Then enjoy your last look at them. Now I shall finish you for all your "
+"interference!"
+msgstr ""
+
+#. [message]: role=drake ally
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:173
+msgid ""
+"We care nothing for the feuds of surface folk, but you slew our lord. For "
+"that, we will not rest until we have defeated you."
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:177
+msgid ""
+"Ah... I can't thank you enough for taking care of my little dragon problem. "
+"I promise you'll have a position of great prestige in my eternal undead army!"
+msgstr ""
+
+#. [message]: role=champion
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:181
+msgid "Look, milady! Cursed undead are emerging from the mountains!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:186
+msgid ""
+"I see. And others, as well. They can only be coming from the Accursed "
+"Valley. All that comes from that place is tainted; we must destroy them!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:191
+msgid ""
+"Wait! We are no allies of the lich. Please. You must help us defeat him!"
+msgstr ""
+
+#. [message]: role=ally
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:195
+msgid ""
+"Aye, it was they that killed the dragon. The valley is cursed no more, fair "
+"lady."
+msgstr ""
+
+#. [message]: role=champion
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:199
+msgid ""
+"We won't be fooled by your lies, foul ones. We will cleanse the land of your "
+"evil!"
+msgstr ""
+
+#. [message]
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:203
+msgid "Very well. Then I'll just have to kill all of you!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Valley_of_the_Ancients/scenarios/06_Last_Battle.cfg:299
+msgid "Drake"
+msgstr ""
+
+#. [object]: id=ring_invis
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:18
+#: Valley_of_the_Ancients/utils/items.cfg:30
+msgid ""
+"Wearing this ring will render a unit invisible unless it attacks or moves "
+"adjacent to an enemy."
+msgstr ""
+
+#. [option]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:21
+#: Valley_of_the_Ancients/utils/items.cfg:82
+#: Valley_of_the_Ancients/utils/items.cfg:143
+#: Valley_of_the_Ancients/utils/items.cfg:205
+#: Valley_of_the_Ancients/utils/items.cfg:262
+#: Valley_of_the_Ancients/utils/items.cfg:325
+#: Valley_of_the_Ancients/utils/items.cfg:414
+msgid "Take it"
+msgstr ""
+
+#. [option]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:52
+#: Valley_of_the_Ancients/utils/items.cfg:113
+#: Valley_of_the_Ancients/utils/items.cfg:175
+#: Valley_of_the_Ancients/utils/items.cfg:232
+#: Valley_of_the_Ancients/utils/items.cfg:295
+#: Valley_of_the_Ancients/utils/items.cfg:384
+#: Valley_of_the_Ancients/utils/items.cfg:473
+msgid "Leave it"
+msgstr ""
+
+#. [object]: id=ring_might
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:79
+#: Valley_of_the_Ancients/utils/items.cfg:91
+msgid ""
+"Wearing this ring will grant a unit great strength, increasing the damage "
+"and number of its melee strikes."
+msgstr ""
+
+#. [object]: id=vial_holy
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:140
+#: Valley_of_the_Ancients/utils/items.cfg:152
+msgid ""
+"This blessed water will allow a unit's melee attacks to do arcane damage."
+msgstr ""
+
+#. [object]: id=troll_potion
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:202
+#: Valley_of_the_Ancients/utils/items.cfg:214
+msgid ""
+"This magical conconction will allow a unit to regenerate health like a troll."
+msgstr ""
+
+#. [object]: id=gold_mail
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:259
+#: Valley_of_the_Ancients/utils/items.cfg:271
+msgid ""
+"This enchanted armor will increase a unit's hitpoints as well as boosting "
+"resistance to fire and cold damage."
+msgstr ""
+
+#. [object]: id=rune_axe
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:322
+#: Valley_of_the_Ancients/utils/items.cfg:334
+msgid ""
+"This magic throwing axe is enchanted to swiftly return to the thrower's hand."
+msgstr ""
+
+#. [effect]: type=blade
+#: Valley_of_the_Ancients/utils/items.cfg:338
+msgid "runestorm axe"
+msgstr ""
+
+#. [object]: id=spear_valor
+#. [message]: speaker=unit
+#: Valley_of_the_Ancients/utils/items.cfg:411
+#: Valley_of_the_Ancients/utils/items.cfg:423
+msgid ""
+"This magic spear fills the wielder with courage and daring, letting them "
+"charge for double damage."
+msgstr ""
+
+#. [effect]: type=pierce
+#: Valley_of_the_Ancients/utils/items.cfg:427
+msgid "spear of valour"
+msgstr ""
