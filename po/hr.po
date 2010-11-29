@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 13:01+0200\n"
+"POT-Creation-Date: 2010-11-29 14:51+0100\n"
 "PO-Revision-Date: 2010-10-03 13:01+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hr\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -257,12 +257,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:91
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:103
 msgid "Argh! They are stronger than I had thought. Fall back!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:97
+#: Valley_of_the_Ancients/scenarios/02_Showdown.cfg:109
 msgid ""
 "Onward! The path lies open before us now. Soon the ancient treasures of the "
 "dwarves will be mine and mine alone!"
@@ -357,51 +357,51 @@ msgid "Opponent escapes before you do"
 msgstr ""
 
 #. [message]: id=$victor.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:224
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:233
 msgid ""
 "Glorious! The lost city of the dwarves and all its riches belong to me at "
 "last!"
 msgstr ""
 
 #. [message]: id=$loser.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:228
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:237
 msgid "Enjoy it while it lasts. I will have my revenge!"
 msgstr ""
 
 #. [message]: id=$victor.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:232
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:241
 msgid "So you're still around? I can take care of that."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:236
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:245
 msgid "FRESH MEAT..."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:240
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:249
 msgid "HUNGRY..."
 msgstr ""
 
 #. [message]: id=$victor.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:244
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:253
 msgid "Huh?"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:248
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:257
 msgid "More victims! How delightful."
 msgstr ""
 
 #. [message]: id=$victor.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:252
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:261
 msgid ""
 "Drat! Perhaps there was more to that guardian's 'Accursed Valley' nonsense "
 "than we gave credit."
 msgstr ""
 
 #. [message]: id=$victor.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:256
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:265
 msgid ""
 "The ancient dwarves were said to have weapons of great power. If we can "
 "reach the depths of the lower city to recover them, we may be able to fight "
@@ -409,81 +409,81 @@ msgid ""
 msgstr ""
 
 #. [message]: id=$loser.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:260
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:269
 msgid "'We'? What's this 'we' business? You're on your own, friend."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:264
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:273
 msgid ""
 "Run, run, run! Flee as you will, you will not escape! Nothing leaves the "
 "Valley alive!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:300
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:323
 msgid "We'll never get out of here at this rate!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:304
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:327
 msgid "This is hopeless. We are doomed!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:309
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:332
 msgid "Mua hah hah hah!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:340
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:363
 msgid "Quickly, this way!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:345
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:368
 msgid "Master! Some of them are getting away!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:350
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:373
 msgid ""
 "They will not get very far. We can deal with them later. For now, though, "
 "take the others!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:360
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:383
 msgid "Oh no. We are doomed fighting this horde alone!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:365
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:388
 msgid "Muahahah hah hah!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:425
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:448
 msgid "Yessss... more blood and souls for the master!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:429
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:452
 msgid "No! Not like this..."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:434
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:457
 msgid "Feed, my children! Slaughter them all!"
 msgstr ""
 
 #. [message]: id=$victor2.id
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:438
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:461
 msgid "Quick, let's get out of here while they're busy."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:443
+#: Valley_of_the_Ancients/scenarios/03_Cursed_City.cfg:466
 msgid "Heh heh. Run while you can! You will join them soon enough!"
 msgstr ""
 
